@@ -98,4 +98,4 @@ For inquiries or collaboration, feel free to open an [Issue](https://github.com/
 
 ## ⭐ Star this project if you liked it!
 
-                                                                                                                                                      𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷
+                                                                                           𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷
