@@ -69,7 +69,7 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 
 ## 📷 Demo
 
-![Demo](https://i.ibb.co/zTyZQQ58/Robot-Voiture-Arduino-vitant-Obstacles.png)
+![Model Robot Demo](https://i.ibb.co/B2CnX0wx/your-image-name.png)
 
 
 
