@@ -1,6 +1,7 @@
 # 🤖 Arduino Obstacle Avoiding Car Robot
 
-![Project Banner](images/banner.png) <!-- تقدر تحط صورة توضيحية هنا -->
+![Project Banner](![Demo](https://i.ibb.co/zTyZQQ58/Robot-Voiture-Arduino-vitant-Obstacles.png)
+) <!-- تقدر تحط صورة توضيحية هنا -->
 
 ## 📌 Overview
 
@@ -65,7 +66,8 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 
 ## 📷 Demo
 
-> *(لو عندك صور أو فيديو للمشروع، ممكن تضيفها هنا)* https://ibb.co/tT7DQQhZ 
+![Demo](https://i.ibb.co/zTyZQQ58/Robot-Voiture-Arduino-vitant-Obstacles.png)
+
 
 
 ---
