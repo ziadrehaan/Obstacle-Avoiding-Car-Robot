@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/zTyZQQ58/Robot-Voiture-Arduino-vitant-Obstacles.png" width="400"/>
-</p>
-
 # 🤖 Arduino Obstacle Avoiding Car Robot
 
 ![Demo](https://i.ibb.co/zTyZQQ58/Robot-Voiture-Arduino-vitant-Obstacles.png)
