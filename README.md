@@ -84,7 +84,6 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 - [MIT App Inventor](https://appinventor.mit.edu/)
 - ❤️ Passion for Robotics
 
----
 
 <div align="right">
 <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
