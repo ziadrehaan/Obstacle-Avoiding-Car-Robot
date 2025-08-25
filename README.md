@@ -69,7 +69,8 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 
 ## 📷 Demo
 
-![Model Robot Demo](https://i.ibb.co/B2CnX0wx/your-image-name.png) ![Arduino Car Demo]([https://i.ibb.co/XXXXXXXX/Arduino-Car-2](https://ibb.co/WvxL2H6C).png)
+![Model Robot Demo](https://i.ibb.co/B2CnX0wx/your-image-name.png)![Arduino Car Demo](https://i.ibb.co/XXXXXXX/your-image-name.png)
+
 
 
 
