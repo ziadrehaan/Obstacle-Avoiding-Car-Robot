@@ -76,8 +76,6 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 
 
 
-
-
 ---
 
 ## 🧠 Made With
@@ -88,13 +86,11 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 
 ---
 
-## 📩 Contact
+<div align="right">
+<a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
 
-> Created by [Ziad Rehaan](https://github.com/ziadrehaan)  
-For inquiries or collaboration, feel free to open an [Issue](https://github.com/ziadrehaan/Obstacle-Avoiding-Car-Robot/issues) or [Contact Me](mailto:your-email@example.com)
+</div>
 
----
 
-## ⭐ Star this project if you liked it!
 
-                                                                                           𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷
+                                                                                       
