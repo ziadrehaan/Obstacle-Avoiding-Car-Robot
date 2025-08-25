@@ -11,7 +11,6 @@
 A multi-functional **Arduino-based smart car** designed for autonomous navigation and manual control using **voice commands** and **Bluetooth**. This compact robotic car uses sensors to avoid obstacles and can be controlled via a custom smartphone app.
 
 ---
-
 ## 🔑 Key Features
 
 - 🚧 **Obstacle Avoidance**  
