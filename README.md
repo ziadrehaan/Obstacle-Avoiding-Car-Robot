@@ -1,6 +1,6 @@
 # 🤖 Arduino Obstacle Avoiding Car Robot
 
-![Project Banner](https://c:\Users\Win 10\Downloads\Robot Voiture Arduino Évitant Obstacles.png.png)  <!-- تقدر تحط صورة توضيحية هنا -->
+![Project Banner](images/banner.png) <!-- تقدر تحط صورة توضيحية هنا -->
 
 ## 📌 Overview
 
@@ -65,7 +65,8 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 
 ## 📷 Demo
 
->
+> *(لو عندك صور أو فيديو للمشروع، ممكن تضيفها هنا)*![Uploading Robot Voiture Arduino Évitant Obstacles.png…]()
+
 
 ---
 
@@ -81,3 +82,8 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 
 > Created by [Ziad Rehaan](https://github.com/ziadrehaan)  
 For inquiries or collaboration, feel free to open an [Issue](https://github.com/ziadrehaan/Obstacle-Avoiding-Car-Robot/issues) or [Contact Me](mailto:your-email@example.com)
+
+---
+
+## ⭐ Star this project if you liked it!
+
