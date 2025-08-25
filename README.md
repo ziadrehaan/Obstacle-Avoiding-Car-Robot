@@ -1,4 +1,4 @@
-# 🤖 Arduino Obstacle Avoiding Car Robot
+<img width="584" height="1040" alt="image" src="https://github.com/user-attachments/assets/45565dc6-389d-4149-9746-739b99825a95" /># 🤖 Arduino Obstacle Avoiding Car Robot
 
 ![Demo](https://i.ibb.co/zTyZQQ58/Robot-Voiture-Arduino-vitant-Obstacles.png)
 
@@ -70,7 +70,8 @@ A multi-functional **Arduino-based smart car** designed for autonomous navigatio
 ## 📷 Demo
 
 ![Model Robot Demo](https://i.ibb.co/B2CnX0wx/Model-Robot.jpg)
-![Arduino Car Demo](https://i.ibb.co/HTFjHKVZ/Arduino-Car-2.jpg)
+![Arduino Car Demo](https://i.ibb.co/HTFjHKVZ/Arduino-Car-2.jpg) <img width="584" height="1040" alt="image" src="https://github.com/user-attachments/assets/5970df54-50a3-424e-b9e4-454511ca1b64" />
+
 
 
 
